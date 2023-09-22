@@ -1,4 +1,4 @@
-<h1>Hi, I'm Uday Berad, a Web Developer</h1>
+# HII I am Uday Berad, A Coder and Web Developer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
   
