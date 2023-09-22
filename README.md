@@ -1,6 +1,6 @@
 # HII I am Uday Berad, A Coder and Web Developer
 
-  <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
+  <img align="right" alt="GIF" src="https://github.com/Prathamesh-chougale-17/Prathamesh-Chougale-17/blob/main/code.gif" width="1000" height="680" />
   
 <p align="center">
 <h1 align="center"> <img src="code-gif.gif" width = 40px> Tech Logs <img src="code-gif.gif" width = 40px> </h1>
