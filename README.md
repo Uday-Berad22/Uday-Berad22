@@ -91,12 +91,6 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 <p></p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Uday-Berad22&layout=compact&theme=radical" />
 </a>
-  <a href="Uday-Berad22">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Uday-Berad22&show_icons=true&include_all_commits=true&theme=radical" alt="Uday's github stats" />
-</a>
-<p></p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Uday-Berad22&layout=compact&theme=radical" />
-</a>
 <p></p>
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Uday-Berad22&theme=cobalt)](https://github.com/Uday-Berad22)
